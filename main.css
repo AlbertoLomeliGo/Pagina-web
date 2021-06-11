@@ -1,0 +1,61 @@
+body{
+    background: rgb(78, 151, 219);
+    background: linear-gradient(180deg, rgb(211, 211, 211) 36%, #adadad 92%) fixed;
+}
+.contenedor{
+    position: relative;
+    align-content:  center;
+    display: inline-block;
+    text-align: center;
+   width: 100%;
+   height: auto;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.blockquote {
+margin-left: 1cm ;
+}
+
+.social-icon{
+    max-height: 30px;
+}
+ 
+.carta{
+    justify-content: center;
+    margin-top: 16px;
+    background-color: #f4f4f4;
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 0 0 50px 1px;  
+}
+
+.songplaceholder{
+      width: "100%" ;
+}
+
+.footerTitle{
+  text-align:  center;
+}
+
+.iframesong{
+  align-content:  center;
+  width: "100%" ;
+}
+
+.video {
+    text-align: center;
+    margin-top: 16px;
+    background-color: #f4f4f4;
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 0 0 50px 1px;
+    width: "100%" ;
+}
+.reflexion{
+  width: 100%;
+ }
